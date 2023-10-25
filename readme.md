@@ -1,0 +1,1 @@
+Day02-task to state difference between Document object and Window object
